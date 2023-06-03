@@ -1,5 +1,4 @@
 @startuml
-autonumber
 
 actor Клиент
 actor Менеджер order 20
